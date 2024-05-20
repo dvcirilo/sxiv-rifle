@@ -9,7 +9,7 @@ url="https://wiki.archlinux.org/index.php/Sxiv#Browse_through_images_in_director
 license=('GPL2')
 depends=('sxiv')
 source=('sxiv-rifle.sh' 'sxiv-rifle.desktop')
-md5sums=('47069e805adcb7654ec3612dde1ee126'
+md5sums=('1913b028a8553b8f12aca7afa5f19918'
          '22b56f46c4681b0cb6babdf43bb1d13f')
 
 package() {
